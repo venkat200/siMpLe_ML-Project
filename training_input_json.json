@@ -1,0 +1,1 @@
+{"Epochs": ["250"], "LearningRate": ["0.05"], "Optim": ["SGD"], "LossFn": ["CE"]}
