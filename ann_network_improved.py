@@ -66,7 +66,6 @@ class NeuralNetwork(nn.Module):
 		import numpy as np
 
 		Y_pred = self.net(X)
-
 		Y_pred = Y_pred.detach().numpy()
 
 		return np.array(Y_pred).squeeze()
