@@ -1,2 +1,2 @@
 # siMpLe_ML-Project
- A ML Project for a GUI Neural Network Application that can create and utilise ML models using GUI
+ An ML Based Application that leads users to build Neural Network Models easy and conveniently through a GUI interface 
